@@ -64,8 +64,6 @@ The OR gate uses
 
 ## Building Logic Gates at RTL level
 
-Testing randomn ssh signing
-
 The 1 bit adder uses `AND`, `OR`, `XOR`, and version 2 uses `NOT`.
 `XOR` can be constructed uses `AND`, `OR`, `NOT` gates.
 
